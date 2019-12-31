@@ -1,6 +1,6 @@
-<a name="locations"><h1 class="display-3 text-center"><span class="text-danger">WHERE</span> <span class="text-primary">TO FIND US</span></h1></a>
+<a name="locations"><h1 class="display-3 text-center"><span class="text-danger">Where</span> <span class="text-primary">to Find Us</span></h1></a>
 <br><br>
-<div class="text-center text-light" style="background: url('src/img/america.png') center;">
+<div class="text-center text-light" style="background: url('src/img/america.png') center fixed;">
     <div class="row justify-content-center p-4">
         <div class="col-sm p-3 m-2 rounded" style="background-color: rgba(0, 0, 0, 0.500);">
             <h4 class="">US - Miami</h4>
